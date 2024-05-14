@@ -1,11 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTYzYXhibml0YTE3bDZnYm9ybzR4ZHljeTcxbjdhd2Zlcno5aHFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="150"/>
-<p float:right >Exceed Yourself and Never Give Up<p>
-
-<div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTYzYXhibml0YTE3bDZnYm9ybzR4ZHljeTcxbjdhd2Zlcno5aHFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" style="float:left;"> 
-  <div>Lista de Lubricantes</div> 
-</div>
-
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTYzYXhibml0YTE3bDZnYm9ybzR4ZHljeTcxbjdhd2Zlcno5aHFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="150"/> Exceed Yourself and Never Give Up
 
 ## Me llamo Juan, soy programador y administrador de sistemas
 
