@@ -1,16 +1,20 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTYzYXhibml0YTE3bDZnYm9ybzR4ZHljeTcxbjdhd2Zlcno5aHFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="150"/> Exceed Yourself and Never Give Up
 
+## Me llamo Juan, soy programador y administrador de sistemas
 
-## Me llamo Juan, soy programador y administrador de sistemas</h2>
+<ul>
+  <li>Soy un entusiasta de la programación y un apasionado de la tecnología</li>
+  <li>Me encanta programar</li>
+  <li>Adoro aprender</li>
+  <li>Me gustan los retos</li>
+</ul
 
-Soy un entusiasta de la programación y un apasionado de la tecnología
-
-Aquí compartiré mis proyectos, retos, curiosidades del mundo de la tecnología e intentaré
-
+### Aquí compartiré mis proyectos, retos, curiosidades del mundo de la tecnología e intentaré aportar mis conocimientos a la comunidad OpenSource
 
 ## TECNOLOGÍAS 🖥️📂
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
