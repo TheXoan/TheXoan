@@ -7,7 +7,7 @@
   <li>Me encanta programar</li>
   <li>Adoro aprender</li>
   <li>Me gustan los retos</li>
-</ul
+</ul>
 
 ### Aquí compartiré mis proyectos, retos, curiosidades del mundo de la tecnología e intentaré aportar mis conocimientos a la comunidad OpenSource
 
