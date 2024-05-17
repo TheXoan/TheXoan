@@ -1,5 +1,7 @@
 ![Banner TheXoan](banner.png)
-# Exceed Yourself and Never Give Up
+
+# Exceed Yourself and Never Give Up <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE1emE3ODI0M2l0YjhsMWFieDB0Y3d4bjY1d2g0ZnV5NmxweTkxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="50"/>
+
 
 ## Me llamo Juan, soy programador y administrador de sistemas
 
