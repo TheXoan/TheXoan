@@ -1,8 +1,5 @@
-<div style="background-color:orange">
-<p style="color:black">
-Exceed Yourself and Never Give Up
-</p>
-</div>
+![Banner TheXoan](banner.png)
+# Exceed Yourself and Never Give Up
 
 ## Me llamo Juan, soy programador y administrador de sistemas
 
