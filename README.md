@@ -7,7 +7,6 @@
 
 <ul>
   <li>Soy un entusiasta de la programación y un apasionado de la tecnología</li>
-  <li>Me encanta programar</li>
   <li>Curioso y con una gran motivación</li>
   <li>Me gustan los retos</li>
 </ul>
@@ -15,10 +14,11 @@
  > No fracasé, solo descubrí 999 maneras de como no hacer una bombilla - Thomas Alva Edison
 
 
-### Aquí compartiré mis proyectos, retos, curiosidades del mundo de la tecnología e intentaré aportar mis conocimientos a la comunidad OpenSource
+### Aquí compartiré mis proyectos, retos y curiosidades del mundo de la tecnología
 
 ## TECNOLOGÍAS 🖥️📂
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
